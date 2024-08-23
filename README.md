@@ -23,5 +23,6 @@ The goal is to craft a clear, concise, and compelling resume that not only refle
 
 ### Link to Resume
 [Your Google Docs Resume](https://docs.google.com/document/d/1Tdt6NT8FKjxQYu3C9_FL-I-vWEYE6sm_FYBWwhKqi9Q/edit?usp=sharing)
+[Your Google Drive Resume](https://docs.google.com/document/d/1Tdt6NT8FKjxQYu3C9_FL-I-vWEYE6sm_FYBWwhKqi9Q/edit?usp=sharing)
 
 This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `https://docs.google.com/document/d/1Tdt6NT8FKjxQYu3C9_FL-I-vWEYE6sm_FYBWwhKqi9Q/edit?usp=sharing` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
